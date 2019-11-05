@@ -5,4 +5,4 @@ The player starts the game with three lives, and if they miss the ball's rebound
 This is a screenshot of the final version of our game:
 
 
-
+![alt test](screenshots/Capture.JPG)
