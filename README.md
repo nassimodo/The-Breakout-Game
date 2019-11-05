@@ -6,3 +6,5 @@ This is a screenshot of the final version of our game:
 
 
 ![alt test](Window.JPG)
+
+--> Run the Main.py file and the GUI window will appear. 
